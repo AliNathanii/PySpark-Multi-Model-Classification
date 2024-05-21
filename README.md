@@ -1,5 +1,5 @@
 # PySpark-Multi-Model-Classification
-This project demonstrates the use of PySpark for building and evaluating multiple classification models on a dataset. The workflow includes data preprocessing, model training, hyperparameter tuning, and model evaluation with various models.  Table of Contents
+This project demonstrates the use of PySpark for building and evaluating multiple classification models on a multivariate dataset. Our models will predict whether the patient can donate their blood or not (either positive for hepatitis or not). The workflow includes data preprocessing, model training, hyperparameter tuning, and model evaluation with various models.
 
 # Setup Instructions
 Install the necessary dependencies, including PySpark, PyDrive, and OpenJDK.
